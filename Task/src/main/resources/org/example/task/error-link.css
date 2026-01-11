@@ -1,0 +1,8 @@
+.error-link {
+    -fx-fill: #d32f2f;
+    -fx-font-weight: bold;
+    -fx-underline: true;
+    -fx-cursor: hand;
+    -fx-background-color: yellow;
+    -fx-padding: 2px;
+}
